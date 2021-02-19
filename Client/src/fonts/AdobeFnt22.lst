@@ -1,0 +1,322 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArchivoNarrow-Bold
+FamilyName:Archivo Narrow
+StyleName:Bold
+FullName:Archivo Narrow Bold
+MenuName:Archivo Narrow
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\ArchivoNarrow-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:170360
+FileModTime:1590722032
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Archivo Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Book
+FamilyName:Avenir
+StyleName:Book
+FullName:Avenir Book
+MenuName:Avenir Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\Avenir.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1639536
+FileModTime:1590722032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Book
+NameArray:0,Mac,4,Avenir Book
+NameArray:0,Win,1,Avenir Book
+NameArray:0,Win,16,Avenir
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-BoldItalic
+FamilyName:Gotham
+StyleName:Bold Italic
+FullName:Gotham-BoldItalic
+MenuName:Gotham
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\Gotham Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43928
+FileModTime:1590722032
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-BoldItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HankenGrotesk-Bold
+FamilyName:Hanken Grotesk
+StyleName:Bold
+FullName:Hanken Grotesk Bold
+MenuName:Hanken Grotesk
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\HankenGrotesk-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62772
+FileModTime:1590722032
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Hanken Grotesk Bold
+NameArray:0,Win,1,Hanken Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HankenGrotesk-Regular
+FamilyName:Hanken Grotesk
+StyleName:Regular
+FullName:Hanken Grotesk Regular
+MenuName:Hanken Grotesk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\HankenGrotesk-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63508
+FileModTime:1590722032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Hanken Grotesk Regular
+NameArray:0,Win,1,Hanken Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+FullName:Helvetica Neue
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\HelveticaNeue.ttc
+TTCOffset:80
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:6625940
+FileModTime:1590722032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:1590722032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Black
+FamilyName:Roboto
+StyleName:Black
+FullName:Roboto Black
+MenuName:Roboto Bk
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\Roboto-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:164936
+FileModTime:1590722032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Black
+NameArray:0,Mac,4,Roboto Black
+NameArray:0,Win,1,Roboto Bk
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Bold
+FamilyName:Roboto
+StyleName:Bold
+FullName:Roboto Bold
+MenuName:Roboto
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\Roboto-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:163448
+FileModTime:1590722032
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Bold
+NameArray:0,Mac,4,Roboto Bold
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Medium
+FamilyName:Roboto
+StyleName:Medium
+FullName:Roboto Medium
+MenuName:Roboto Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\Roboto-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160696
+FileModTime:1590722032
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Medium
+NameArray:0,Mac,4,Roboto Medium
+NameArray:0,Win,1,Roboto Lt
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+FullName:Roboto Regular
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\Roboto-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:158604
+FileModTime:1590722032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Regular
+NameArray:0,Mac,4,Roboto Regular
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Thin
+FamilyName:Roboto
+StyleName:Thin
+FullName:Roboto Thin
+MenuName:Roboto Th
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\Roboto-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122512
+FileModTime:1590722032
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Roboto Thin
+NameArray:0,Mac,4,Roboto Thin
+NameArray:0,Win,1,Roboto Th
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TrajanPro-Bold
+FamilyName:Trajan Pro
+StyleName:Bold
+FullName:Trajan Pro Bold
+MenuName:Trajan Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\DesignSPC\2 - Landing Page\Document fonts\TrajanPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69540
+FileModTime:1590722032
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:360
+NameArray:0,Mac,4,Trajan Pro Bold
+NameArray:0,Win,1,Trajan Pro
+%EndFont
+

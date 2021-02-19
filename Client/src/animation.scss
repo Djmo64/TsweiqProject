@@ -1,0 +1,111 @@
+
+@keyframes swing {
+    20% {
+      transform: rotate3d(0, 0, 1, 15deg);
+    }
+  
+    40% {
+      transform: rotate3d(0, 0, 1, -10deg);
+    }
+   
+    60% {
+      transform: rotate3d(0, 0, 1, 5deg);
+    }
+  
+    80% {
+      transform: rotate3d(0, 0, 1, -5deg);
+    }
+  
+    to {
+      transform: rotate3d(0, 0, 1, 0deg);
+    }
+  }
+  
+  .swing {
+    transform-origin: top center;
+    animation-name: swing;
+  }
+  
+  .animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  
+  .animated.infinite {
+    animation-iteration-count: infinite;
+  }
+
+
+  .loading-spinner {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin: 0 20px;
+  }
+  
+  .loading-spinner .circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .loading-spinner .circle::before {
+    content: '';
+    display: block;
+    width: 15%;
+    height: 15%;
+    background-color: #333;
+    border-radius: 50%;
+  }
+  
+  // loading animation 1
+  .loading-spinner1 .circle::before {
+    animation: rotating 1s infinite ease-in-out;
+  }
+  
+  @for $i from 1 through 12 {
+    .loading-spinner1 .circle:nth-child(#{$i}) {
+      transform: rotate(30deg * ($i - 1));
+    }
+  
+    .loading-spinner1 .circle:nth-child(#{$i})::before {
+      animation-delay: 0.1s * $i;
+    }
+  }
+  
+  @keyframes rotating {
+    0%, 100% {
+      opacity: 0;
+    }
+  
+    50% {
+      opacity: 1;
+    }
+  }
+  
+  // loading animation 2
+  .loading-spinner2 .circle {
+    animation: rotating2 1s infinite ease-in-out;
+  }
+  
+  @for $i from 1 through 12 {
+    .loading-spinner2 .circle:nth-child(#{$i}) {
+      transform: rotate(30deg * ($i - 1));
+    }
+  
+    .loading-spinner2 .circle:nth-child(#{$i}) {
+      animation-delay: -0.02s * $i;
+    }
+  }
+  
+  @keyframes rotating2 {
+    0% {
+      transform: rotate(0);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }

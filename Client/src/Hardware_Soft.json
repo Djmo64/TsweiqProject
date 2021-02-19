@@ -1,0 +1,114 @@
+[
+    {
+        "id" : 0,
+        "Title" : "Reason Studios AB Multitrack Recording Software (11)",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Reason-Studios-AB-Multitrack-11/dp/B07YBWM46D/ref=sr_1_64?dchild=1&keywords=studio+software&qid=1602876640&sr=8-64",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "soft1"
+
+    }, {
+        "id" : 0,
+        "Title" : "Image Line FL Studio 20 Signature Bundle (Boxed)",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Image-Line-Studio-Signature-Bundle/dp/B07C7Y5P2S/ref=sr_1_60?dchild=1&keywords=studio+software&qid=1602876640&sr=8-60",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 2605,
+        "Image" : "soft2"
+
+    }, {
+        "id" : 0,
+        "Title" : "Pro Tools Perpetual Music Recording Software",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Tools-Perpetual-Music-Recording-Software/dp/B07NYZZ2WP/ref=sr_1_6?dchild=1&keywords=studio+software&qid=1602876384&sr=8-6",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 2551,
+        "Image" : "soft3"
+
+    }, {
+        "id" : 0,
+        "Title" : "Pinnacle Studio 22 Plus",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Corel-Pinnacle-Studio-22-Plus/dp/B07Q5W8CLJ/ref=sr_1_3?dchild=1&keywords=studio+software&qid=1602876384&sr=8-3",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 329,
+        "Image" : "soft4"
+
+    }, {
+        "id" : 0,
+        "Title" : "Fl Studio 20 Signature Edition Academic Student/Teacher Boxed",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Studio-Signature-Academic-Student-Teacher/dp/B07JKG26ZF/ref=sr_1_77?dchild=1&keywords=studio+software&qid=1602876640&sr=8-77",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 1159,
+        "Image" : "soft5"
+
+    }, {
+        "id" : 0,
+        "Title" : "Propellerhead Reason 8 (Music Recording & Production Studio)",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Propellerhead-Reason-Recording-Production-Studio/dp/B00MIXEUCQ/ref=sr_1_82?dchild=1&keywords=studio+software&qid=1602876640&sr=8-82",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 1405,
+        "Image" : "soft6"
+
+    }, {
+        "id" : 0,
+        "Title" : "Reason Studios AB Multitrack Recording Software (11)",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Reason-Studios-AB-Multitrack-11/dp/B07YD2PYW1/ref=sr_1_70?dchild=1&keywords=studio+software&qid=1602876640&sr=8-70",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "soft7"
+
+    }, {
+        "id" : 0,
+        "Title" : "Image Line FL Studio 20 Signature Bundle (Boxed)",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Image-Line-Studio-Signature-Bundle/dp/B07C7Y5P2S/ref=sr_1_60?dchild=1&keywords=studio+software&qid=1602876640&sr=8-60",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 2605,
+        "Image" : "soft8"
+
+    },
+    {
+        "id" : 0,
+        "Title" : "Image Line FL Studio 20 Producer Edition Mac/Windows",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Image-Line-Studio-Producer-Windows/dp/B07C895FTM/ref=sr_1_49?dchild=1&keywords=studio+software&qid=1602876640&sr=8-49",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 839,
+        "Image" : "soft9"
+
+    }, {
+        "id" : 0,
+        "Title" : "Global News HD Realistic Virtual Set for Green Screen Video Productions",
+        "Star" : 5,
+        "Station" : "software",
+        "Link" : "https://www.amazon.ae/Global-Realistic-Virtual-Screen-Productions/dp/B01L86FI6A/ref=sr_1_12?dchild=1&keywords=studio+software&qid=1602876384&sr=8-12",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 1137,
+        "Image" : "soft10"
+
+    }
+]

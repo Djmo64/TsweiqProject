@@ -1,0 +1,93 @@
+[
+    {
+        "id" : 1,
+        "Title2":"TVAdvertising",
+        "Title": "TV",
+        "Image" : "cardT1",
+        "SubCat": []
+
+    },
+    {
+        "id" : 2,
+        "Title2":"Cinema",
+        "Title": "Cinema",
+        "Image" : "cardT5",
+        "SubCat": []
+
+    },
+    {
+        "id" : 3,
+        "Title2":"Radio",
+        "Title": "Radio",
+        "Image" : "cardT2",
+        "SubCat": ["Terrestrial", "Podcasts", "Digital"]
+    },
+    {
+        "id" : 4,
+        "Title2":"Print",
+        "Title": "Print",
+        "Image" : "cardT3",
+        "SubCat": ["Newspaper", "Magazine", "Newsletter"]
+    },
+    {
+        "id" : 5,
+        "Title2":"OutOfHome",
+        "Title": "Out of Home",
+        "Image" : "cardT4",
+        "SubCat": ["Exterior Signage",
+        "Digital Mupis",
+        "Malls",
+        "Billboard",
+        "Overhead Messages",
+        "Spotlight Circuit",
+        "Public Transport"]
+    },
+    {
+        "id" : 6,
+        "Title2":"Digital",
+        "Title": "Digital",
+        "Image" : "cardT6",
+        "SubCat": ["SEO/SEM",
+            "Mailers",
+            "Influencers",
+            "Facebook",
+            "Instagram",
+            "YouTube",
+            "Linkedin",
+            "Twitter"]  
+    },
+    {
+        "id" : 7,
+        "Title2":"Production",
+        "Title": "Production",
+        "Image" : "cardT7",
+        "SubCat": ["Logo & Business Colatoral",
+            "Website Design & Development",
+            "Promotional Items",
+            "TV Commercial",
+            "Radio Spot",
+            "Print Artwork",
+            "Creative Content",
+            "Signage",
+            "Social Media Management"]
+
+    },
+    {
+        "id" : 8,
+        "Title2":"Hardware",
+        "Title": "Hardware",
+        "Image" : "cardT8",
+        "SubCat": ["Camera’s",
+            "Microphone’s",
+            "Computers & Laptops",
+            "Lighting",
+            "Green Screen",
+            "Lenses",
+            "Tripods",
+            "Headphones",
+            "Speakers",
+            "Batteries",
+            "Memory Cards",
+            "Software"]
+    }
+]

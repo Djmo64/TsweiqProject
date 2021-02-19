@@ -1,0 +1,875 @@
+
+     [
+        {
+            "ID": " TV0001",
+            "TVChannel": " Dubai One",
+            "AdvertisingOwner": " Dubai Media Inc."
+        },
+        {
+            "ID": " TV0002",
+            "TVChannel": " Net 25",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0003",
+            "TVChannel": " GMA News TV",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0004",
+            "TVChannel": " GMA Life TV",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0005",
+            "TVChannel": " GMA Pinoy TV",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0006",
+            "TVChannel": " Lifestyle Network",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0007",
+            "TVChannel": " Cine Mo",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0008",
+            "TVChannel": " Aksyon TV",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0009",
+            "TVChannel": " ABS-CBN Regional Channel",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0010",
+            "TVChannel": " Mix",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0011",
+            "TVChannel": " Viva TV",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0012",
+            "TVChannel": " DWRR 101.9",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0013",
+            "TVChannel": " DZNN Taleradyo",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0014",
+            "TVChannel": " ANC",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0015",
+            "TVChannel": " Cinema One Global",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0016",
+            "TVChannel": " ABC-CBN Sports+Action",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0017",
+            "TVChannel": " TFC",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0018",
+            "TVChannel": " Nat Geo People HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0019",
+            "TVChannel": " Nat Geo Wild HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0020",
+            "TVChannel": " Nat Geo HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0021",
+            "TVChannel": " History HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0022",
+            "TVChannel": " H2 HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0023",
+            "TVChannel": " Crime & Investigation Network",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0024",
+            "TVChannel": " DiscoveryID",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0025",
+            "TVChannel": " Discovery Science HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0026",
+            "TVChannel": " Discovery HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0027",
+            "TVChannel": " France 24 English",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0028",
+            "TVChannel": " Sky News Arabia HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0029",
+            "TVChannel": " France 24 English",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0030",
+            "TVChannel": " Bloomberg",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0031",
+            "TVChannel": " CNBC",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0032",
+            "TVChannel": " BBC World",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "samah.ahmed@bbcworld.ae"
+        },
+        {
+            "ID": " TV0033",
+            "TVChannel": " Sky News HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0034",
+            "TVChannel": " OSN News",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0035",
+            "TVChannel": " Baby TV Europe",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0036",
+            "TVChannel": " NickToons HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0037",
+            "TVChannel": " OSN id Zone TV",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0038",
+            "TVChannel": " Nick Jr",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0039",
+            "TVChannel": " Nickelodeon HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0040",
+            "TVChannel": " Disney HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0041",
+            "TVChannel": " Disney XD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0042",
+            "TVChannel": " Disney Junior",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0043",
+            "TVChannel": " VH1",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0044",
+            "TVChannel": " MTV Live HD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0045",
+            "TVChannel": " ART Cinema",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0046",
+            "TVChannel": " ART Aflam 2",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0047",
+            "TVChannel": " ART Aflam 1",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0048",
+            "TVChannel": " Hekayat 2",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0049",
+            "TVChannel": " Hekayat ",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0050",
+            "TVChannel": " Music Now",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0051",
+            "TVChannel": " Cinema 2",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0052",
+            "TVChannel": " Cinema 1",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0053",
+            "TVChannel": " Fann",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0054",
+            "TVChannel": " Al Safwa",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0055",
+            "TVChannel": " Al Yawm",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0056",
+            "TVChannel": " Series Channel",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0057",
+            "TVChannel": " OSN Yahala Cinema",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0058",
+            "TVChannel": " OSN Ya Hala",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0059",
+            "TVChannel": " Paramount Channel",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0060",
+            "TVChannel": " Comedy Central",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0061",
+            "TVChannel": " TLC",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0062",
+            "TVChannel": " StarWorldHD",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0063",
+            "TVChannel": " E!",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0064",
+            "TVChannel": " Fatafeat",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0065",
+            "TVChannel": " Star Movies",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0066",
+            "TVChannel": " Star World",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0067",
+            "TVChannel": " Abu Dhabi TV",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0068",
+            "TVChannel": " Al Emarat TV",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0069",
+            "TVChannel": " Abu Dhabi Drama",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0070",
+            "TVChannel": " Abu Dhabi Sports 1",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0071",
+            "TVChannel": " Abu Dhabi Sports 2",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0072",
+            "TVChannel": " Abu Dhabi Sports 3",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0073",
+            "TVChannel": " Abu Dhabi Sports 4",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0074",
+            "TVChannel": " Yas",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0075",
+            "TVChannel": " Maid TV",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0076",
+            "TVChannel": " National Geographic Abu Dhabi",
+            "AdvertisingOwner": " Abu Dhabi Media",
+            "ContactEmail": "sales@admedia.ae"
+        },
+        {
+            "ID": " TV0077",
+            "TVChannel": " Addar TV",
+            "AdvertisingOwner": " Addar TV"
+        },
+        {
+            "ID": " TV0078",
+            "TVChannel": " Ajman TV",
+            "AdvertisingOwner": " Ajman TV",
+            "ContactEmail": "program@ajmanTv.com"
+        },
+        {
+            "ID": " TV0079",
+            "TVChannel": " Al Aan TV",
+            "AdvertisingOwner": " Al Aan TV"
+        },
+        {
+            "ID": " TV0080",
+            "TVChannel": " Al Aqariya TV",
+            "AdvertisingOwner": " Al Aqariya TV",
+            "ContactEmail": "info@alaqariya.tv"
+        },
+        {
+            "ID": " TV0081",
+            "TVChannel": " Al Dafrah TV",
+            "AdvertisingOwner": " Al Dafrah TV",
+            "ContactEmail": "info@aldafrah.com"
+        },
+        {
+            "ID": " TV0082",
+            "TVChannel": " Al Shallal TV",
+            "AdvertisingOwner": " Al Shallal TV"
+        },
+        {
+            "ID": " TV0083",
+            "TVChannel": " Al-Waha TV",
+            "AdvertisingOwner": " Al-Waha TV",
+            "ContactEmail": "info@alwahatv.ae"
+        },
+        {
+            "ID": " TV0084",
+            "TVChannel": " Al Wousta TV",
+            "AdvertisingOwner": " Al Wousta TV"
+        },
+        {
+            "ID": " TV0085",
+            "TVChannel": " MBC1",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0086",
+            "TVChannel": " MBC2",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0087",
+            "TVChannel": " MBC MAX",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0088",
+            "TVChannel": " MBC3",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0089",
+            "TVChannel": " MBC4",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0090",
+            "TVChannel": " MBC ACTION",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0091",
+            "TVChannel": " WANASAH",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0092",
+            "TVChannel": " MBC DRAMA",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "advertise@mbc.net"
+        },
+        {
+            "ID": " TV0093",
+            "TVChannel": " Al Arabiya",
+            "AdvertisingOwner": " MBC Group",
+            "ContactEmail": "ad@alarabiya.net"
+        },
+        {
+            "ID": " TV0094",
+            "TVChannel": " Awtar TV",
+            "AdvertisingOwner": " Awtar TV"
+        },
+        {
+            "ID": " TV0095",
+            "TVChannel": " Baynounah TV",
+            "AdvertisingOwner": " Baynounah TV",
+            "ContactEmail": "info@baynounah.ae"
+        },
+        {
+            "ID": " TV0096",
+            "TVChannel": " Cartoon Network Arabic",
+            "AdvertisingOwner": " Cartoon Network Arabic"
+        },
+        {
+            "ID": " TV0097",
+            "TVChannel": " CBC Abu Dhabi",
+            "AdvertisingOwner": " CBC Abu Dhabi",
+            "ContactEmail": "admin@cbcabudhabi."
+        },
+        {
+            "ID": " TV0098",
+            "TVChannel": " Citruss TV",
+            "AdvertisingOwner": " Citruss TV",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0099",
+            "TVChannel": " Dubai Drama",
+            "AdvertisingOwner": " Dubai Drama",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0100",
+            "TVChannel": " Dubai TV",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0101",
+            "TVChannel": " Sama",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0102",
+            "TVChannel": " DubaiZamaan",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0103",
+            "TVChannel": " DubaiSports",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0104",
+            "TVChannel": " DubaiRacing",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0105",
+            "TVChannel": " OneTV",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0106",
+            "TVChannel": " Noor Dubai TV",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0107",
+            "TVChannel": " Noor Dubai",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0108",
+            "TVChannel": " Dubai Radio",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0109",
+            "TVChannel": " Sama Dubai",
+            "AdvertisingOwner": " Dubai Media Incorporated",
+            "ContactEmail": "RIshak.MEMS@ChoueiriGroup.com"
+        },
+        {
+            "ID": " TV0110",
+            "TVChannel": " Fox",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0111",
+            "TVChannel": " Fox Life",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0112",
+            "TVChannel": " Fox Crime",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0113",
+            "TVChannel": " Fox Rewayat",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0114",
+            "TVChannel": " Fox Movies",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0115",
+            "TVChannel": " Fox Family Movies",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0116",
+            "TVChannel": " Fox Action Movies",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0117",
+            "TVChannel": " FX",
+            "AdvertisingOwner": " Fox Networks Group",
+            "ContactEmail": "adsales@foxnews.com"
+        },
+        {
+            "ID": " TV0118",
+            "TVChannel": " Fujairah TV",
+            "AdvertisingOwner": " Fujairah TV"
+        },
+        {
+            "ID": " TV0119",
+            "TVChannel": " Hala Movies",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0120",
+            "TVChannel": " Hala Series",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0121",
+            "TVChannel": " Hala Mix",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0122",
+            "TVChannel": " Hawas TV",
+            "AdvertisingOwner": " Hawas TV"
+        },
+        {
+            "ID": " TV0123",
+            "TVChannel": " Holy Quran Award",
+            "AdvertisingOwner": " Holy Quran Award"
+        },
+        {
+            "ID": " TV0124",
+            "TVChannel": " HRN",
+            "AdvertisingOwner": " Horse Racing Network",
+            "ContactEmail": "Support@TVG.com"
+        },
+        {
+            "ID": " TV0125",
+            "TVChannel": " HRN 2",
+            "AdvertisingOwner": " Horse Racing Network",
+            "ContactEmail": "Support@TVG.com"
+        },
+        {
+            "ID": " TV0126",
+            "TVChannel": " MTV Arabia",
+            "AdvertisingOwner": " OSN",
+            "ContactEmail": "advertisinginfo@osn.com"
+        },
+        {
+            "ID": " TV0127",
+            "TVChannel": " Music Plus",
+            "AdvertisingOwner": " Global Business Services",
+            "ContactEmail": "m.rasim@gbs.ae"
+        },
+        {
+            "ID": " TV0128",
+            "TVChannel": " Gear One",
+            "AdvertisingOwner": " Global Business Services",
+            "ContactEmail": "m.rasim@gbs.ae"
+        },
+        {
+            "ID": " TV0129",
+            "TVChannel": " Global Stars",
+            "AdvertisingOwner": " Global Business Services",
+            "ContactEmail": "m.rasim@gbs.ae"
+        },
+        {
+            "ID": " TV0130",
+            "TVChannel": " GBS Events",
+            "AdvertisingOwner": " Global Business Services",
+            "ContactEmail": "m.rasim@gbs.ae"
+        },
+        {
+            "ID": " TV0131",
+            "TVChannel": " Physique TV",
+            "AdvertisingOwner": " Physique TV",
+            "ContactEmail": "ads@physique-tv.com"
+        },
+        {
+            "ID": " TV0132",
+            "TVChannel": " Play Aflam TV",
+            "AdvertisingOwner": " Play Aflam TV"
+        },
+        {
+            "ID": " TV0133",
+            "TVChannel": " RBC TV",
+            "AdvertisingOwner": " RBC TV",
+            "ContactEmail": "info@rbctv.ae"
+        },
+        {
+            "ID": " TV0134",
+            "TVChannel": " Sama Al Ain",
+            "AdvertisingOwner": " Sama Al Ain",
+            "ContactEmail": "info@samaalain.tv"
+        },
+        {
+            "ID": " TV0135",
+            "TVChannel": " Sense TV",
+            "AdvertisingOwner": " Sense TV"
+        },
+        {
+            "ID": " TV0136",
+            "TVChannel": " Sharjah TV",
+            "AdvertisingOwner": " Sharjah Broadcasting Authority",
+            "ContactEmail": "ads@sba.net.ae"
+        },
+        {
+            "ID": " TV0137",
+            "TVChannel": " Sharjah Sports",
+            "AdvertisingOwner": " Sharjah Broadcasting Authority",
+            "ContactEmail": "ads@sba.net.ae"
+        },
+        {
+            "ID": " TV0138",
+            "TVChannel": " Al Dhid",
+            "AdvertisingOwner": " Sharjah Broadcasting Authority",
+            "ContactEmail": "ads@sba.net.ae"
+        },
+        {
+            "ID": " TV0139",
+            "TVChannel": " Eastern Channel from Kalba",
+            "AdvertisingOwner": " Sharjah Broadcasting Authority",
+            "ContactEmail": "ads@sba.net.ae"
+        },
+        {
+            "ID": " TV0140",
+            "TVChannel": " Space Power TV",
+            "AdvertisingOwner": " Space Power TV"
+        },
+        {
+            "ID": " TV0141",
+            "TVChannel": " SpaceToon",
+            "AdvertisingOwner": " Space Power TV"
+        },
+        {
+            "ID": " TV0142",
+            "TVChannel": " SpaceToon Go",
+            "AdvertisingOwner": " Space Power TV"
+        },
+        {
+            "ID": " TV0143",
+            "TVChannel": " Tawazon TV",
+            "AdvertisingOwner": " Tawazon TV"
+        },
+        {
+            "ID": " TV0144",
+            "TVChannel": " Zee Alwan",
+            "AdvertisingOwner": " Zee Entertainment Enterprises",
+            "ContactEmail": "media@zee.esselgroup.com"
+        },
+        {
+            "ID": " TV0145",
+            "TVChannel": " Zee Aflam",
+            "AdvertisingOwner": " Zee Entertainment Enterprises",
+            "ContactEmail": "media@zee.esselgroup.com"
+        },
+        {
+            "ID": " TV0146",
+            "TVChannel": " Zee TV Menap",
+            "AdvertisingOwner": " Zee Entertainment Enterprises",
+            "ContactEmail": "media@zee.esselgroup.com"
+        },
+        {
+            "ID": " TV0147",
+            "TVChannel": " Zoal TV",
+            "AdvertisingOwner": " Zoal TV",
+            "ContactEmail": "info@zoal.tv"
+        },
+        {
+            "ID": " TV0148",
+            "TVChannel": " Other",
+            "AdvertisingOwner": "Other",
+            "ContactEmail": "Other"
+        }
+    ]

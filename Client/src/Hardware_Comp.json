@@ -1,0 +1,223 @@
+[
+    {
+        "id" : 0,
+        "Title" : "Nvidia 2019 Gaming/Rendering PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Nvidia-2019-Gaming-Rendering-PC/dp/B07NKQX9RM/ref=sr_1_29?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602874037&refinements=p_36%3A-600000&rnid=15397626031&s=computers&sprefix=comp%2Caps%2C407&sr=1-29",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp1"
+
+    },{
+        "id" : 0,
+        "Title" : "GIZMOPOWER GAMING PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/GIZMOPOWER-GTX1650-RTX2070S-RTX2080S-COMPUTER/dp/B08BKWY23C/ref=sr_1_3?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873828&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-3",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 2750,
+        "Image" : "Comp2"
+
+    },{
+        "id" : 0,
+        "Title" : "ASUS ROG Strix G15CK Gaming and Entertainment Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/ASUS-Entertainment-Desktop-i7-10700KF-Bluetooth/dp/B08FM67KZ3/ref=sr_1_1?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873853&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-1",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 26722,
+        "Image" : "Comp3"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Z8 G4 Workstation Intel Xeon",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/HP-Z8-G4-Workstation-DDR4-2933/dp/B087VNHZPK/ref=sr_1_3?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873853&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-3",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 22900,
+        "Image" : "Comp4"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Pavilion TG01-0170m Gaming and Business Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/HP-Pavilion-TG01-0170m-Business-Bluetooth/dp/B08FYSW2G8/ref=sr_1_7?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873853&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-7",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 21210,
+        "Image" : "Comp5"
+
+    },{
+        "id" : 0,
+        "Title" : "ASUS ROG Strix GL10DH Gaming and Entertainment Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/ASUS-Entertainment-Desktop-Bluetooth-Display/dp/B084DR6FV3/ref=sr_1_12?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873853&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-12",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 19135,
+        "Image" : "Comp6"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Z8 G4 Workstation Intel Xeon Gold",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/HP-Z8-G4-Workstation-DDR4-2999/dp/B087VSQVCQ/ref=sr_1_13?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873853&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-13",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 18800,
+        "Image" : "Comp7"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Z2 Mini G4 Home and Business Desktop Black",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/HP-Business-Desktop-i5-8500-Bluetooth/dp/B0895KYPPR/ref=sr_1_47?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873878&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-47",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp8"
+
+    },{
+        "id" : 0,
+        "Title" : "ASUS ROG Strix G15CK Gaming and Entertainment Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/ASUS-Entertainment-Desktop-i7-10700KF-Bluetooth/dp/B08FM5DPZ7/ref=sr_1_52?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873923&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-52",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 15022,
+        "Image" : "Comp9"
+
+    },{
+        "id" : 0,
+        "Title" : "CyberpowerPC Gamer Supreme Liquid Cool Desktop Computer",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/CyberpowerPC-Supreme-Liquid-Desktop-Computer/dp/B07KKV94XS/ref=sr_1_59?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873923&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-59",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 14796,
+        "Image" : "Comp10"
+
+    },{
+        "id" : 0,
+        "Title" : "Alienware Area-51 Desktop",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Alienware-Area-51-Desktop-Ryzen-1950X/dp/B08D89MGFR/ref=sr_1_58?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873923&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-58",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp11"
+
+    },{
+        "id" : 0,
+        "Title" : "Alienware Aurora R9 Gaming Desktop",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Alienware-Aurora-Desktop-i9-9900K-GeForce/dp/B08BTL1FYD/ref=sr_1_85?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873940&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-85",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 13000,
+        "Image" : "Comp12"
+
+    },{
+        "id" : 0,
+        "Title" : "Lenovo Legion T730-28ICO 90JF00BSUS Gaming Desktop Computer",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Lenovo-T730-28ICO-90JF00BSUS-Desktop-Computer/dp/B07WX1NLYW/ref=sr_1_90?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873940&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-90",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp13"
+
+    },{
+        "id" : 0,
+        "Title" : "Asus ROG Strix GA35 G35DX-AE007T Gaming Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Strix-G35DX-AE007T-Gaming-Desktop-Black/dp/B0894HS9CK/ref=sr_1_141?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873980&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-141",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 11899,
+        "Image" : "Comp14"
+
+    },{
+        "id" : 0,
+        "Title" : "Dell Precision T3630 Intel 2224G Processor",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Dell-Precision-Processor-Memory-Windows/dp/B087V54V1C/ref=sr_1_12?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873878&refinements=p_36%3A-600000&rnid=15397626031&s=computers&sprefix=comp%2Caps%2C407&sr=1-12",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 5868,
+        "Image" : "Comp15"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Pavilion TG01-0170m Gaming and Business Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/HP-Pavilion-TG01-0170m-Business-Bluetooth/dp/B08FYTBSBZ/ref=sr_1_16?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873878&refinements=p_36%3A-600000&rnid=15397626031&s=computers&sprefix=comp%2Caps%2C407&sr=1-16",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 5870,
+        "Image" : "Comp16"
+
+    },{
+        "id" : 0,
+        "Title" : "Intel NUC NUC7i7DNHE Small Form Factor Home and Business Mini Desktop",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Intel-NUC-NUC7i7DNHE-Business-Bluetooth/dp/B07H4Z43PQ/ref=sr_1_23?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873878&refinements=p_36%3A-600000&rnid=15397626031&s=computers&sprefix=comp%2Caps%2C407&sr=1-23",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 5860,
+        "Image" : "Comp17"
+
+    },{
+        "id" : 0,
+        "Title" : "Philips 246E9QHSW 24-inch E Line Full HD IPS monitor Ultra Wide",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Philips-246E9QHSW-24-inch-monitor-FreeSync/dp/B08CDGZNXJ/ref=sr_1_19?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873828&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-19",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp18"
+
+    },{
+        "id" : 0,
+        "Title" : "HP 2XN60AA#ABU 24F Display Monitor LED,23.8 Inches",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/HP-2XN60AA-ABU-Display-FREESYNC/dp/B07CP9DN99/ref=sr_1_3?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873828&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-3",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 525,
+        "Image" : "Comp19"
+
+    },{
+        "id" : 0,
+        "Title" : "Samsung 32 inch CF391 Curved Monitor",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Link" : "https://www.amazon.ae/Samsung-CF391-Curved-Monitor-LC32F391FWMXUE/dp/B07NY2CWTV/ref=sr_1_2?crid=2KCWKB167H64X&dchild=1&keywords=computer&qid=1602873828&rnid=15199045031&s=computers&sprefix=comp%2Caps%2C407&sr=1-2",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp20"
+
+    }
+]

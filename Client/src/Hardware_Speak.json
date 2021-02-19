@@ -1,0 +1,169 @@
+[
+    {
+        "id" : 0,
+        "Title" : "Edifier R2000DB Powered Bluetooth Bookshelf Speakers",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Edifier-R2000DB-Bluetooth-Bookshelf-Speakers/dp/B07CHQM8B7/ref=sr_1_2_sspa?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVzU1R0tENEJHWVlRJmVuY3J5cHRlZElkPUEwMDMwODU1VzVMWDJRN0tGVDdPJmVuY3J5cHRlZEFkSWQ9QTA5OTIyNTdMMlZKT1VSMk5BUDAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 979,
+        "Image" : "spc1"
+
+    }, {
+        "id" : 0,
+        "Title" : "Edifier S2000pro Powered Bluetooth Bookshelf Speakers",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Edifier-S2000pro-Bluetooth-Bookshelf-Speakers/dp/B07VGYLBC7/ref=sr_1_8?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-8",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 1559,
+        "Image" : "spc2"
+
+    }, {
+        "id" : 0,
+        "Title" : "Neumann KH 420 G Studio Monitor",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Neumann-KH-420-Studio-Monitor/dp/B016NU97HC/ref=sr_1_1?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876926&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-1",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "spc3"
+
+    }, {
+        "id" : 0,
+        "Title" : "Neumann KH 805 | 10 inch Active Studio Subwoofer",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Neumann-KH-805-Active-Subwoofer/dp/B017HSA6GA/ref=sr_1_15?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876926&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-15",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "spc4"
+
+    }, {
+        "id" : 0,
+        "Title" : "Miller & Kreisel MPS1620P Studio Monitor (Martinville acoustics)",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Kreisel-MPS1620P-Monitor-Martinville-acoustics/dp/B01C666SMO/ref=sr_1_27?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876926&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-27",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 5399,
+        "Image" : "spc5"
+
+    }, {
+        "id" : 0,
+        "Title" : "NS-F901 BLACK//G-Black-200W, Yamaha 3 way Bass Reflex Floorstanding Speaker system",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/NS-F901-G-Black-200W-Yamaha-Floorstanding-Speaker/dp/B08BP9L9R6/ref=sr_1_31?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876926&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-31",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "spc6"
+
+    }, {
+        "id" : 0,
+        "Title" : "Yamaha Powered Monitor Speaker HS5I",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Yamaha-Powered-Monitor-Speaker-HS5I/dp/B07W6PM9Z6/ref=sr_1_19?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-19",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 780,
+        "Image" : "spc7"
+
+    }, {
+        "id" : 0,
+        "Title" : "PreSonus Eris 4.5 inch 2-Way Active Studio Monitors - E4.5",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/PreSonus-2-Way-Active-Studio-Monitors/dp/B07MCR1MMG/ref=sr_1_18?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-18",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 777,
+        "Image" : "spc8"
+
+    },
+    {
+        "id" : 0,
+        "Title" : "Alesis Elevate 3 MKII | Powered Desktop Studio Speakers",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Alesis-Elevate-MKII-Speakers-Video-Editing/dp/B0711Y5LKB/ref=sr_1_42?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-42",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 1073,
+        "Image" : "spc9"
+
+    }, {
+        "id" : 0,
+        "Title" : "Mackie MR824 Studio Speakers",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Mackie-MR824-Studio-Speakers/dp/B07M82DF2L/ref=sr_1_47?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-47",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "spc10"
+
+    }, {
+        "id" : 0,
+        "Title" : "Yamaha hs8iW - 2 way bass reflex bi amplified near field studio monitor",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Yamaha-hs8iW-amplified-tweeter-available/dp/B08F46ZKJ4/ref=sr_1_45?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-45",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "spc11"
+
+    }, {
+        "id" : 0,
+        "Title" : "Mackie CR4BT - 4 Multimedia Monitors With Bluetooth (Pair)",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Mackie-CR4BT-Multimedia-Monitors-Bluetooth/dp/B07MJGM5Q4/ref=sr_1_51?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602876908&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-51",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 955,
+        "Image" : "spc12"
+
+    }, {
+        "id" : 0,
+        "Title" : "8040BPM Genelec Studio Speaker",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Genelec-8040BPM-Studio-Speaker/dp/B00HUOKDSI/ref=sr_1_51?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602877036&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-51",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 2999,
+        "Image" : "spc13"
+
+    }, {
+        "id" : 0,
+        "Title" : "Focal Shape 65 6.5 inch powered Studio monitors (Single)",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Focal-powered-Studio-monitors-Single/dp/B0727Q5K78/ref=sr_1_53?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602877036&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-53",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 3899,
+        "Image" : "spc14"
+
+    }, {
+        "id" : 0,
+        "Title" : "Harman Kardon HKCITATIONSUBBL Citation Subwoofer Wireless Bluetooth Speaker",
+        "Star" : 5,
+        "Station" : "Speakers",
+        "Link" : "https://www.amazon.ae/Harman-Kardon-HKCITATIONSUBBL-Subwoofer-Bluetooth/dp/B07NCNHQ93/ref=sr_1_76?crid=63G4TXWS24RA&dchild=1&keywords=studio+speakers&qid=1602877036&refinements=p_36%3A75000-&rnid=15414811031&sprefix=studio+speak%2Caps%2C292&sr=8-76",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 3999,
+        "Image" : "spc15"
+
+    }
+]

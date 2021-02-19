@@ -1,0 +1,3024 @@
+ [
+        {
+            "CompanyAccount": "Apparel Group",
+            "Industry": "Apparel",
+            "Type": "Types of Industries"
+        },
+        {
+            "CompanyAccount": "Mazda",
+            "Industry": "Automotive",
+            "Type": "Construction"
+        },
+        {
+            "CompanyAccount": "Ajay",
+            "Industry": "Automotive",
+            "Type": "Recruitment"
+        },
+        {
+            "CompanyAccount": "Ferrari",
+            "Industry": "Automotive",
+            "Type": "Oil and Gas"
+        },
+        {
+            "CompanyAccount": "Isuzu",
+            "Industry": "Automotive",
+            "Type": "Logistics"
+        },
+        {
+            "CompanyAccount": "MINI",
+            "Industry": "Automotive",
+            "Type": "Media"
+        },
+        {
+            "CompanyAccount": "Prestige Cars",
+            "Industry": "Automotive",
+            "Type": "Steel Fabrication"
+        },
+        {
+            "CompanyAccount": "Suzuki / Yamaha",
+            "Industry": "Automotive",
+            "Type": "Finance"
+        },
+        {
+            "CompanyAccount": "Kawasaki",
+            "Industry": "Automotive",
+            "Type": "IT"
+        },
+        {
+            "CompanyAccount": "Harley Davidson",
+            "Industry": "Automotive",
+            "Type": "Automobile"
+        },
+        {
+            "CompanyAccount": "Daihatsu",
+            "Industry": "Automotive",
+            "Type": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Cadillac / Opel / Chevrolet",
+            "Industry": "Automotive",
+            "Type": "FMCG"
+        },
+        {
+            "CompanyAccount": "Toyota / Lexus",
+            "Industry": "Automotive",
+            "Type": "Retail"
+        },
+        {
+            "CompanyAccount": "Mistubishi",
+            "Industry": "Automotive",
+            "Type": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Hyundai",
+            "Industry": "Automotive",
+            "Type": "Insurance"
+        },
+        {
+            "CompanyAccount": "Chevrolet",
+            "Industry": "Automotive",
+            "Type": "Engineering"
+        },
+        {
+            "CompanyAccount": "Trading Enterprises",
+            "Industry": "Automotive",
+            "Type": "Real Estate"
+        },
+        {
+            "CompanyAccount": "BMW Group",
+            "Industry": "Automotive",
+            "Type": "Trading"
+        },
+        {
+            "CompanyAccount": "Etihad Rail",
+            "Industry": "Automotive",
+            "Type": "Advertising"
+        },
+        {
+            "CompanyAccount": "Etihad",
+            "Industry": "Aviation",
+            "Type": "Consulting"
+        },
+        {
+            "CompanyAccount": "Gulf Air",
+            "Industry": "Aviation",
+            "Type": "Architecture"
+        },
+        {
+            "CompanyAccount": "Emirates",
+            "Industry": "Aviation",
+            "Type": "Aviation"
+        },
+        {
+            "CompanyAccount": "Kenya Airlines",
+            "Industry": "Aviation",
+            "Type": "Education"
+        },
+        {
+            "CompanyAccount": "RAK Airways",
+            "Industry": "Aviation",
+            "Type": "Fitness"
+        },
+        {
+            "CompanyAccount": "Singapore Airlines (Thru MEC)",
+            "Industry": "Aviation",
+            "Type": "Government"
+        },
+        {
+            "CompanyAccount": "Cathay Pacific (Through UM7)",
+            "Industry": "Aviation",
+            "Type": "Apparel"
+        },
+        {
+            "CompanyAccount": "Royal Brunei Airlines",
+            "Industry": "Aviation",
+            "Type": "Energy"
+        },
+        {
+            "CompanyAccount": "Indigo Airlines",
+            "Industry": "Aviation",
+            "Type": "Entertainment"
+        },
+        {
+            "CompanyAccount": "Dubai Airports",
+            "Industry": "Aviation",
+            "Type": "Tourism"
+        },
+        {
+            "CompanyAccount": "KLM / Air france",
+            "Industry": "Aviation",
+            "Type": "Start-Up"
+        },
+        {
+            "CompanyAccount": "HSBC",
+            "Industry": "Financial",
+            "Type": "Tech"
+        },
+        {
+            "CompanyAccount": "Standard Chartered Bank (Global & Regional)",
+            "Industry": "Financial",
+            "Type": "eCommerce"
+        },
+        {
+            "CompanyAccount": "Visa",
+            "Industry": "Financial",
+            "Type": "Telecommunications"
+        },
+        {
+            "CompanyAccount": "Dubai First",
+            "Industry": "Financial",
+            "Type": "Please Specify ………………………………….."
+        },
+        {
+            "CompanyAccount": "QNB Capital",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Al Ahli Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "First Gulf Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Daman",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Noor",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "RAK Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "ADCB",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Islamic Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "National Bank of Abu Dhabi",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Dubai Islamic Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Lulu International Exchange (LuLuEx) LLC",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Al Waha Capital",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Shuaa Capital",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Finance",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Citibank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Tamweel",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Commercial Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "National General Insurance Company",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Lari Exchange",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Invest Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Habib Bank Limited",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Credit Agricole",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Nat Bank Of Umm Al Quwain",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Al Ansari Exchange",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Nexus Insurance Brokers",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Al Hilal Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Finance House",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Sharjah Islamic",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Standard Chartered",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Emirates Islamic",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Emirates NBD",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Mashreq Bank",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Barclays",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "CBI",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Bunya",
+            "Industry": "Construction"
+        },
+        {
+            "CompanyAccount": "Arabtec Holding",
+            "Industry": "Construction"
+        },
+        {
+            "CompanyAccount": "Al Jaber Group",
+            "Industry": "Construction"
+        },
+        {
+            "CompanyAccount": "Drake and Scull",
+            "Industry": "Construction"
+        },
+        {
+            "CompanyAccount": "HAFNER Consultants",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Mega Consulting and Services",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Baker Tilly MKM",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Ideal Management Consultants",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Chicago Training and Consulting",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Win Win HR Consultancy",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Link Management Consulting",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "AFOES Consultants",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Pacific Consulting Services",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "CORE Management Consultants",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "ADD Consultants",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Protiviti (risk & management consulting)",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Global Management Consultants",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Hay Group",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Focus Management Consultancy",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Ventures Middle East",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Falcon International Consulting and Auditing LLC",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "ICME Management Consultants",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "SELECT Training & Management Consultancy LLC",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "Bloom Training & Consulting Institute",
+            "Industry": "Consulting"
+        },
+        {
+            "CompanyAccount": "HP",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Canon Middle East",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "LG Electronics Gulf",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Al Ghandi Electronics",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Philips Electronics Middle East and Africa",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Sharp Middle East Free Zone Establishment",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Al Futtaim Electronics Company",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "SANYO Gulf",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Abdulla and Hamad Al Ghurair Investment",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Daewoo Electronics Middle East",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Sony Gulf",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Jumbo Electronics Company",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "HCL",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Blackberry",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Siemens",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Grandstores",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Ecity",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "Thomsum",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "LG",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "HTC",
+            "Industry": "Consumer Goods"
+        },
+        {
+            "CompanyAccount": "New York Institute of Technology",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "National Training Center Abu Dhabi LLC",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Haward Technology Middle East",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Syscoms College",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Education 2020 Abu Dhabi (organized by International Conferences & Exhibitions LLC)",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Convention Bureau",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Zayed University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Paris-Sorbonne University Abu Dhabi",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Al-Ain University of Science and Technology",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "European International College",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Emirates Institute for Banking & Banking Studies",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Zayed University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "University of Strathclyde",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Rabdan University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "The Petroleum Institute",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Paris Sorbonne",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "New York Institute of Technology (NYIT)",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "New York University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Masdar Institute of Science & Tech",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Mohammed bin Hamdan Smart University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Centre for Vocational Education and Training",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "London University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Westminister College",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "NYU Abu Dhabi",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Ministry of Education",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "ADEC",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "American University in Dubai",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Murdoch University - Dubai",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "NADIA Training Institute",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "NADIA Training Institute",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Bloom Training and Consulting Institute",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Reach Employment Services",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Al Khawarizmi International College",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Khalifa University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "United Arab Emirates University",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Higher Colleges of Technology Women",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Higher Colleges of Technology Men",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Petrolum Institute",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Panasonic Middle East",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "Carrera",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "Sony",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "Toshiba",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "Sharp",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "ACER",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "Blackberry",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "Samsung",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "Emirates Refining",
+            "Industry": "Energy"
+        },
+        {
+            "CompanyAccount": "National Marine Dredging Company",
+            "Industry": "Engineering"
+        },
+        {
+            "CompanyAccount": "Serco",
+            "Industry": "Engineering"
+        },
+        {
+            "CompanyAccount": "Atkins Global",
+            "Industry": "Engineering"
+        },
+        {
+            "CompanyAccount": "Arabian Gulf Mechanical Centre",
+            "Industry": "Engineering"
+        },
+        {
+            "CompanyAccount": "Doha Film Institute",
+            "Industry": "Entertainment"
+        },
+        {
+            "CompanyAccount": "Royal Opera House",
+            "Industry": "Entertainment"
+        },
+        {
+            "CompanyAccount": "Dubai Duty Free",
+            "Industry": "Entertainment"
+        },
+        {
+            "CompanyAccount": "Ferrari World",
+            "Industry": "Entertainment"
+        },
+        {
+            "CompanyAccount": "Agthia Group (PJSC)",
+            "Industry": "Food & Beverage"
+        },
+        {
+            "CompanyAccount": "McDonalds",
+            "Industry": "Food & Beverage"
+        },
+        {
+            "CompanyAccount": "Harrods",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "One Luxury Marketing",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "Excellence Group",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "Le Royal Monceau",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "The Grosvenor House Hotel (Guoman)",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "Zaha Hadid",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "The Dorchester Hotel",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "London and Partners",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "Selfridges",
+            "Industry": "FOREIGN"
+        },
+        {
+            "CompanyAccount": "Masdar",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Dubai Cares",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "The Executive Council",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Department of Culture and Tourism",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Qatar Foundation",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "TDIC",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "TwoFour54",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "ADMC",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "mGovernment",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ajman Free Zone",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Economic Development Board",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Du",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Health Authority Abu Dhabi (HAAD)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Department of Transport",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Etisalat",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Executive Council",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Events",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "ADMA-OPCO",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "ADGAS",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "ADCO",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Tourism & Culure Authority (TCA)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Securities Exchange",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Ports Company",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Department of Municipality Affairs",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Media",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Social Affairs",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Public Works",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Labour",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Justice",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Higher Education & Scientific Research",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Health",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Foreign Affairs",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Finance",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Environment & Water",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Energy",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Education",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Economy",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Union National Bank",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Investment Authority (ADIA)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Food Control Authority",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Education Council (ADEC)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Waste Management (TADWEER)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Basic Industries Corp. (ADBIC)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Centre for Regulation of Transport by Hired cars -TransAD",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Airports Company",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "ZADCO",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Technological Development Council",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Statistics Center Abu Dhabi",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "National Media Council",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "National Center of Metoerlogy & Seismology (NCMS)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "National Center of Documentalion & Research (National Archives)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Central Bank of UAE",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Presidental Affairs",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Ministry of Labour & Social Affairs",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Khalifa Fund For Enterprise Development",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Higher Corp. for Specalized Economic Zones",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "General Civil Aviation Authority",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "GASCO",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Enviroment Agency Abu Dhabi",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Emirates Nuclear Energy Corpation (ENEC)",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Mubadala",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Al-Gharbia Sports Club",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Distribution Company",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Emirates Identity Authority",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Emirates Foundation",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Emirates Center for Strategic Studies & Research",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Emirates Authority for Standardization & Metrology",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Dept of Finance",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Al Ain Municipality, Depart of Municipal Affairs",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Khalifa Fund for Enterprise Development",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Economic Development Council",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Department of Economic Development",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Musanada",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Police (Security Media",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Urban Planning Council",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Mediclinic Middle East Management Services FZ LLC",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Burjeel Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Zayed Military Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Mafraq Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Medcare Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Sheikh Khalifa Medical Center",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "American Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Corniche Maternity Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Dubai Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "VLCC",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Medcare Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Emirates Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Al Zahra Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "SEHA Abu Dhabi Health Services",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "UE Medical",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "NMC Hospital",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Cleveland Clinic",
+            "Industry": "Healthcare"
+        },
+        {
+            "CompanyAccount": "Saleh Al Hamad Al Mana Company",
+            "Industry": "Holdings Group"
+        },
+        {
+            "CompanyAccount": "Jumeirah",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Hilton International",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Rotana Hotels",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Al Dar",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Rosewood",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Atlantis Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Melia Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Goodyear",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Double A",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Yas Marina",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Anantara Group",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "National Corporation for Tourism and Hotels",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Al Raha Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Emirates Palace",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Oberoi Dubai",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Dusit Dubai",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Desert Palm Retreat Dubai",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Hyatt Group of Hotels",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Royal Rose Hotel Abu Dhabi (Summit Group)",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "The West In (Thru Red Dot Media)",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Mafraq Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Millenium Hotel - Abu Dhabi",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Vision Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Premier Inn Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Tilal Liwa Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Novotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Mirfa Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Media One hotel - Dubai",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Liwa Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Danat Al Ain Resort",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "City Seasons Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Crown Plaza Hamdan",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Danat Al Ain",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Le Meridien",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Saadiyat Beach Club",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Jumeirah Group",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Beach Rotana",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Shangri La",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi City Golf Club",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Crown Plaza Yas",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Cristol Downtown",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Hyatt Capital Gate",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Marriot Couryard",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "City Seasons Hotels",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Cristal Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Danat Hotels",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Dorchestor Collection",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Raffles Dubai",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Grand Hyatt Dubai",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Hilton Capital Grand Abu Dhabi",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "St. Regis Abu Dhabi",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "St. Regis Saadiyat Island",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Fairmont Bab Al bahr",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Intercontinental Hotel",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Etihad Towers",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Miral (Destination Manager-Yas etc)",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Hilton",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Dell",
+            "Industry": "Electronics"
+        },
+        {
+            "CompanyAccount": "AXA Gulf",
+            "Industry": "Insurance"
+        },
+        {
+            "CompanyAccount": "ITAN Jewels",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Coach",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "LMVH",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Sotheby's",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "BSH",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Estee Lauder",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Pomellato",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "De Grisogono",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Swarovski",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Kering Group (Gucci,Saint Laurent, Pomellato,PUMA)",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Al Futtaim Group (Dubai Malls)",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Mont Blanc",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Bugatti Group",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Al Sayegh Jewellery",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Concept Brands",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Richemont (Cartier)",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "BinHendi Group",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Al Mulla Jewellery",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Paris Gallery",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "The Galleria Luxury Mall",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Ahmed Seddiqi & Sons",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Rivoli Group",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Al Fardan Group (Jewellery)",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Al Manara International Jewellery",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Damas Jewelry",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Al Tayer Insignia Luxury Retail",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Pure Gold Jewellers",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Sky Jewellery",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Al Futtaim watches and Jewelry",
+            "Industry": "Luxury Brands"
+        },
+        {
+            "CompanyAccount": "Tecom",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Al Jazeera Media Network",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "PHD Dubai",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "PHD",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "PHD Abu Dhabi",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "REED Exhibiton",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Flash Entertainment",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "National Geographic Abu Dhabi",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Tecom",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MEC Global",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "AMC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Universal Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "OMD",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MindShare",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Universal Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "BPN Agency",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MEC ME",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Z7 Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Wunderman ME",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "WNN Limited",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "WMC LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Wellmark Integrated Communications FZ - LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Weber Shandwick",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Watermelon",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Wallis Marketing Consultants",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Von Green Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Vision Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Viola Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Zenith Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Venture Communication",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Vanilla -Viva Entertainment",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Van Cleef and Arpels",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "United Broadcast & Media Solutions",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "UM7 (Abu Dhabi)",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Twister Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Turning Point Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "TTL Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Tripod Media Dubai",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Trinity Communications FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "TRACCS",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Total Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Tonic Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Tishtash",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Sphinx Group FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Porstmouth Group",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Message House",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Media Housa",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Idea Agency",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Edge",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Classic Partnershipme",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Ten Sports",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Dubai Investments",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "TEAM Y & R",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "TEAM Y & R",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Team Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "TCApr",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "TBWA/RAAD",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Taylormade/Copernicus",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Tamra C2",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Switch Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Strawberry PR & Events",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Strategies International",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Strategic Publishing",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Sticky Ginger",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Spear Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Space Toons",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "SMV Starcom Media Vest",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Sisley Paris",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Shamal Marketing Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Sept PR",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "SCHNEIDER PR",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "SAKSHI Advertising & PR",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "RSVP M & C Saatchi",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "RLP Advertising Representatives",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Riverside Investments (L.L.C.)",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Reuters",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Reflection Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Reed Exhibition",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Red Entertainment Distribution FZCO",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Red Bull FZE",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Real Image TV Production",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Rawaj International FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Gulf International Promotions",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "GSL Professional LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Group Plus",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Grey Worldwide",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Grayling Momentum",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Gravity Advertising LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Graphic International Centre LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Golin Harris",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Gmasco",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Gallo Images",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Fundamental Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "FP -7",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Four Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Fineline Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Filmquip Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Figment Communications Ltd",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "FifthRing",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Fast Track Display LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Falcon & Associates",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Face to Face",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Extreme Marketing Services and Solutions",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Euro RSCG Coporate Communication",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Euro Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Eureka Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Estee Lauder Middle East FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Endemol Middle East",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "e-Motion International FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Emirates Printing, Publishing & Distribution Co",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "E-Media FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Ekadaa FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "East West advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Dubai Media Incorporated, Dubai One",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Dubai Holding Group",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Drive Communication",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "D-PR",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Dentsu Network",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "DDB FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Dabo & Co",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "CS PR Group",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Crossroads Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Creative Technology Dubai",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Creation",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Crayons Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "CPI Dubai",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Cosmo",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Continent Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Content Factory",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Connector Publishing",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Communique Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Communicraft FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Circle Advetising & Publishing Mondanite",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Cicero & Bernay",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Cheil Communication",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "ChatterBox PR & Events FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Chalhoub Group/Etoile Group (Luxury Brand Distributor)",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Caspian International LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Carat Middle East",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Buydobuy International",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "BTR Concept",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "BSB Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "BSA Consultants",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Broadcast Middle East FZ-LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "British Tourism Board",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Brand Connection",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Borouj Consulting",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Boopin Media LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Bond Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Blue Apple Mediacom",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Blaze Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Birdie Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Bell Pottinger Middle East",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "B-Comm",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Bates Pan Gulf LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Aziza Communication",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Axis Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "ATOM",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "ATN Media FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Atlas Star Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Ateis Middle east FZCO",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Arabian Gulf Advertising & Marketing (AGA)",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Arab Media Group",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "AMC Advertisting and Marketing Consultants",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Amber Communication ADV",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Alias Publishing FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Al Wasl Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Al Shaer Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Al Sayegh Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Al Qudra Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Al Khaleejiah International",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "AGA Advertising and Marketing",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "AE Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Adworx / Admas Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Adventure Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Advantage Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Adlink",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Action Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Film Festival Management",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Protos Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Prisme International",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Praxis Agency",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Pragma Group International",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Potevio",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Polaris Public Relations",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Petra Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Percept Gulf",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Pencell PR & Events",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Paz Marketing",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Pan Gulf Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Pan Arab Multi Media Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Oxford Design",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Orient Planet PR & Marketing Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Orient Planet PR & Marketing Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Orangerie",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Optimedia",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Omnicom",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "OMD (Optimum Media Direction)",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Octopus",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Oak Consulting FZC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "O2 Marketing Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "NTDE/Oxford Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "North 55 Fz LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Nojoom TV",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Nebula FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MS & L",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MPG ME (Promopub)",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Movie Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Momentum",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MOJO PR",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Mindshare",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Metro Media Production",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Memac Ogilvy Public Relations",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Mediastow",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Mediaquest Corp.",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Mediapolis FZ",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Mediacom Company",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Watch",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Vest FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Vest FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Sphere FZE",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Section",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Insight",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Group FL LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Media Edge : cia",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Starcom",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "H and A Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Mindshare World",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Med K & K",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MCN Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MC2 Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MBC Group",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Matrix Consultancy",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Magnum Advertising & Event Management",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Luluat Al Khaleej",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Louis Vuitton",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Liwa Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Link Arabia Adversting LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Lighthouse LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Leo Burnett Middle East North Africa (Beirut)",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Lazer Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Landor Associates",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Landmark & PR Events",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Killian Hennesy",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Khaleej Times",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Khaleej Business Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Ipsos Stat",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Rahbani Productions",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Radius Leo Burnett",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Qvest Media FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Quill Communications",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Pyramedia",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Publinet Advertising & Publicity LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Publilink",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Publicis Graphics",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "INT'L ADVERTISING MEDIA SERVICES",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Interone Resonance Middle East",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Insignia Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "INPRESS ADVERTISING",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Initiative Media FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Initiative Abu Dhabi",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Inca Tanvir Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Impact Porter Novelli",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "BPG Maxus",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MEIAC Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Impact BBDO",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Ikon Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "House Of PR",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Horizon FCB",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Hill and Knowlton",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Hill & Knowlton - Abu Dhabi",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Headstart Advertising",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Gulf Ocean Graphic Services LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "MEIAC Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Havas Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Universal Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Magna Global",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Wellmark Integrated Communications FZ - LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "The Sphinx Group FZ LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "TBWA/RAAD",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Gravity Advertising LLC",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Fundamental Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Red Dot Media",
+            "Industry": "Media"
+        },
+        {
+            "CompanyAccount": "Harley Street Medical Street",
+            "Industry": "MISC"
+        },
+        {
+            "CompanyAccount": "Majid Al Futtaim Group",
+            "Industry": "MISC"
+        },
+        {
+            "CompanyAccount": "Danube Building Materials",
+            "Industry": "MISC"
+        },
+        {
+            "CompanyAccount": "EXPO 2020",
+            "Industry": "Government"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Golf Club / Saadiyat Beach Golf Club",
+            "Industry": "Hospitality"
+        },
+        {
+            "CompanyAccount": "Al Rostamani",
+            "Industry": "Financial"
+        },
+        {
+            "CompanyAccount": "Emirates Holdings",
+            "Industry": "Start Up"
+        },
+        {
+            "CompanyAccount": "Fitness First",
+            "Industry": "Fitness"
+        },
+        {
+            "CompanyAccount": "Spearhead Training",
+            "Industry": "Education"
+        },
+        {
+            "CompanyAccount": "Visit England",
+            "Industry": "Tourism"
+        },
+        {
+            "CompanyAccount": "Dubai Properties Group",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Mubadala Real Estate & Hospitality",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Tameer Holding Investment LLC",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Burooj Properties",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Abu Dhabi Commercial Properties LLC",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Tamouh",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Manazel Real Estate",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Better Homes",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "DAS Holding",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Bloom Properties",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Al Fardan Properties",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Reem Developers",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Al Qudra Holding",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Hydra Properties",
+            "Industry": "Real Estate"
+        },
+        {
+            "CompanyAccount": "Patek Philippe",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Al Maghrabi",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Pan Emirates",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Dubai Duty Free",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "BMA (Geant, RedTag, 24)",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Dabour",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "L'Oreal",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Mercato",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "MAF Fashion",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "( A. Lange & Sonhe / Chloe / Dunhill / Jaeger- LeCoultre / Piaget / Vacheron Constantin)",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Hermes",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Richemont",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Ralph Lauren",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "MAF Malls",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Mushrif Mall",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Bawabat Al-Sharq Mall (Baniyas Investent & development company)",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Carrefour",
+            "Industry": "Retail"
+        },
+        {
+            "CompanyAccount": "Al Rostamani Shift Technologies",
+            "Industry": "Services"
+        },
+        {
+            "CompanyAccount": "Ernst & Young",
+            "Industry": "Services"
+        },
+        {
+            "CompanyAccount": "Strategy & Co. (formerly Booz & Co)",
+            "Industry": "Services"
+        },
+        {
+            "CompanyAccount": "ADNATCO and NGSCO",
+            "Industry": "Shipping"
+        },
+        {
+            "CompanyAccount": "Aramex",
+            "Industry": "Shipping"
+        },
+        {
+            "CompanyAccount": "DHL",
+            "Industry": "Shipping"
+        },
+        {
+            "CompanyAccount": "Ericcson",
+            "Industry": "Technology"
+        },
+        {
+            "CompanyAccount": "Oracle",
+            "Industry": "Technology"
+        },
+        {
+            "CompanyAccount": "IBM",
+            "Industry": "Technology"
+        },
+        {
+            "CompanyAccount": "SAP",
+            "Industry": "Technology"
+        },
+        {
+            "CompanyAccount": "SAS",
+            "Industry": "Technology"
+        },
+        {
+            "CompanyAccount": "ABB",
+            "Industry": "Technology"
+        },
+        {
+            "CompanyAccount": "Thuraya Telecommunication Company",
+            "Industry": "Telecommunication"
+        },
+        {
+            "CompanyAccount": "Axiom Telecom",
+            "Industry": "Telecommunications"
+        },
+        {
+            "CompanyAccount": "Daimler Middle East & Levant FZE",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Arabian Automobiles Co.",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Citroen",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Peugeot",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Al Fahim Transportation",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Bentley",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "INKAS Armored Vehicles",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Al-Masaood Automobiles (Infiniti + Nissan + Renault)",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Al Rostamani Group (Suzuki)",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Nissan",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Ford / Jaguar / Land Rover / Ferrari / Maserati",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Premier/Al Tayer Motors",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Valtrans Hospitality",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Kawasaki",
+            "Industry": "Automobile"
+        },
+        {
+            "CompanyAccount": "Virgin Atlantic",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Air Arabia",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Philippine Airlines",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "BUPA International",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Qantas Airlines",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Austrian Airlines (Through Brand Connection)",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Qatar Airlines",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "British Airlines",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Lufftansa",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Oman Air",
+            "Industry": "Travel"
+        },
+        {
+            "CompanyAccount": "Bold International",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Meydan",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Occidental Oil an Gas",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "GM Dealers",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Honda",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "UBS",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Cartier",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Al Khayyat Investments",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Yahoo/Maktoob",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Emirates Skycargo",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Emirates NBD",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Rodeo Drive",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Tiffany & Co",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Banvit",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Marina Health Promotion",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "PHD Dubai",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "MEC Mena",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "SBK Holding",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Mohammad Bin Rashid Almaktoum Academic Medical Center",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Michael Kors",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "National Training Center Abu Dhabi LLC",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Microsoft Gulf FZ",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Fitness First",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Technology Development Committee",
+            "Industry": "Other"
+        },
+        {
+            "CompanyAccount": "Al Serkal Group",
+            "Industry": "Other"
+        }
+    ]

@@ -1,0 +1,615 @@
+[
+    {
+        "id" : 0,
+        "Title" : "Vox Mall of The Emirates ",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin1"
+
+    },
+    {
+        "id" : 1,
+        "Title" : "Novo Ibn Battuta Mall ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 6230,
+        "Image" : "cin2"
+
+    },
+    {
+        "id" : 2,
+        "Title" : "Reel Dubai Mall Cinema",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 6330,
+        "Image" : "cin3"
+
+    },
+    {
+        "id" : 3,
+        "Title" : "Star Lamcy Plaza Cinema",
+        "Star" : 5,
+        "Limited" : false ,
+        "Sec" : "Cinema",
+        "Price" : 6200,
+        "Image" : "cin4"
+
+    },
+    {
+        "id" : 4,
+        "Title" : "Cine Royal Dalma Mall ",
+        "Star" : 5,
+        "Limited" : false ,
+        "Sec" : "Cinema",
+        "Price" : 7330,
+        "Image" : "cin5"
+
+    },
+    {
+        "id" : 5,
+        "Title" : "Oscar Wahda Mall Cinema",
+        "Star" : 5,
+        "Limited" : false ,
+        "Sec" : "Cinema",
+        "Price" : 7500,
+        "Image" : "cin6"
+
+    },
+    {
+        "id" : 6,
+        "Title" : "Marina Beach Cinema",
+        "Star" : 5,
+        "Limited" : false ,
+        "Sec" : "Cinema",
+        "Price" : 8230,
+        "Image" : "cin7"
+
+    },
+    {
+        "id" : 7,
+        "Title" : "CinemaCity Arabian Center ",
+        "Star" : 5,
+        "Limited" : false ,
+        "Sec" : "Cinema",
+        "Price" : 8500,
+        "Image" : "cin8"
+
+    },
+    {
+        
+        "id" : 8,
+        "Title" : "Vox Mall Mirdif City Center ",
+        "Star" : 5,
+        "Limited" : false ,
+        "Sec" : "Cinema",
+        "Price" : 8500,
+        "Image" : "cin10"
+
+    },
+    {
+        "id" : 9,
+        "Title" : "Vox Deira City Center ",
+        "Star" : 5,
+        "Limited" : true ,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin11"
+
+    },
+    {
+        "id" : 10,
+        "Title" : "Vox Mercato Mall Cinema",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 6230,
+        "Image" : "cin12"
+
+    },
+    {
+        "id" : 11,
+        "Title" : "Novo Festival City ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 6330,
+        "Image" : "cin13"
+
+    },
+    {
+        "id" : 12,
+        "Title" : "Reel Marina Mall Cinema",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 6200,
+        "Image" : "cin14"
+
+    },
+    {
+        "id" : 13,
+        "Title" : "Star National Cinema",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 7330,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 14,
+        "Title" : "Cine Royal Khalidiyah Mall ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 7500,
+        "Image" : "cin16"
+
+    },
+    {
+        "id" : 15,
+        "Title" : "Oscar Al Raha Mall ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 8230,
+        "Image" : "cin17"
+
+    },
+    {
+        "id" : 16,
+        "Title" : "City Walk ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 8500,
+        "Image" : "cin18"
+
+    },
+    {
+        "id" : 17,
+        "Title" : "CinimaCity Zero 6 ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 8500,
+        "Image" : "cin19"
+
+    },
+    {
+        "id" : 18,
+        "Title" : "Vox Grand Hyatt ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 8500,
+        "Image" : "cin20"
+
+    },
+    {
+        "id" : 19,
+        "Title" : "Novo Dragon Mart ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 6230,
+        "Image" : "cin21"
+
+    },
+    {
+        "id" : 20,
+        "Title" : "Novo IMG Worlds of Adventure ",
+        "Star" : 5,
+        "Limited" : false,
+        "Sec" : "Cinema",
+        "Price" : 6330,
+        "Image" : "cin22"
+
+    },
+    {
+        "id" : 40,
+        "Title" : "Rove Downtown",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin23"
+
+    },
+    {
+        "id" : 41,
+        "Title" : "Star Cineplex",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 42,
+        "Title" : "Cine Royal Ruwais Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin24"
+
+    },
+    {
+        "id" : 43,
+        "Title" : "Oscar Al Shaab Village",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin25"
+
+    },
+    {
+        "id" : 44,
+        "Title" : "Box Park Cinema",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin26"
+
+    },
+    {
+        "id" : 45,
+        "Title" : "Vox Burjuman Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin27"
+
+    },
+    {
+        "id" : 46,
+        "Title" : "Vox Shindagha City Centre",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin28"
+
+    },
+    {
+        "id" : 47,
+        "Title" : "Novo Rotana",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin29"
+
+    },
+    {
+        "id" : 48,
+        "Title" : "Jebel Ali Recreation Club",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin30"
+
+    },
+    {
+        "id" : 49,
+        "Title" : "Star Grand Safeer",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 50,
+        "Title" : "Khalifa City",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 51,
+        "Title" : "Cine Royal Deerfields Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin31"
+
+    },
+    {
+        "id" : 52,
+        "Title" : "Cine Royal Paragon Mall ",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin32"
+
+    },
+    {
+        "id" : 53,
+        "Title" : "Oscar Al Foah Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin33"
+
+    },
+    {
+        "id" : 54,
+        "Title" : "Vox Nakheel Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin34"
+
+    },
+    {
+        "id" : 55,
+        "Title" : "Vox Aloft Outdoor",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin35"
+
+    },
+    {
+        "id" : 56,
+        "Title" : "Novo World Trade Center",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin36"
+
+    },
+    {
+        "id" : 57,
+        "Title" : "Novo Bawabat Al Sharq Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin37"
+
+    },
+    {
+        "id" : 58,
+        "Title" : "Springs Souk",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin38"
+
+    },
+
+    {
+        "id" : 59,
+        "Title" : "Star Bawadi Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin39"
+
+    },
+    {
+        "id" : 60,
+        "Title" : "Barari Outlet Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin40"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Kempinski Private",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin41"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Galleria Outdoor",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Al Jimi Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin42"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Novo Manar Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin43"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Star Al Ain Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin44"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Abu Dhabi Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin45"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Yas Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin46"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Marina Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin46_2"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Novo Mega Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin47"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Star Gulf Cinema",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Nation Towers",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin48"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox City Center Fujairah",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin49"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Novo Sahara Center",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin50"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Star Century Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox City Center Sharjah",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin51"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Novo Buhaira",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Star Dana",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin15"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox Al Hamra Mall",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin52"
+
+    },
+    {
+        "id" : 61,
+        "Title" : "Vox City Center Ajman",
+        "Star" : 5,
+        "Limited" : true,
+        "Sec" : "Cinema",
+        "Price" : 3000,
+        "Image" : "cin51"
+
+    }
+  
+]
